@@ -4,3 +4,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/xt-el/scripts/refs/he
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xt-el/scripts/refs/heads/main/Flys%20Scripts/Fly%20V1"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xt-el/scripts/refs/heads/main/Flys%20Scripts/Fly%20V2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xt-el/scripts/refs/heads/main/Flys%20Scripts/Fly%20V3"))()
